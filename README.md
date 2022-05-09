@@ -22,13 +22,13 @@ Course Project of CSE545 Advanced Computer Vision, UNIST
 
 ### Description
 
-[](img/desc1.png)
+![](img/desc1.png)
 
-[](img/desc2.png)
+![](img/desc2.png)
 
 ### Result
 
 epoch 200, lambda 0.01
 
-[](img/epo200_lam001.png)
+![](img/epo200_lam001.png)
 
